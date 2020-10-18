@@ -1,0 +1,14 @@
+D:\Pack Prog Web\Parcial\BLL\obj\Debug\netstandard2.0\BLL.csprojAssemblyReference.cache
+D:\Pack Prog Web\Parcial\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfoInputs.cache
+D:\Pack Prog Web\Parcial\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfo.cs
+D:\Pack Prog Web\Parcial\BLL\obj\Debug\netstandard2.0\BLL.csproj.CoreCompileInputs.cache
+D:\Pack Prog Web\Parcial\BLL\bin\Debug\netstandard2.0\BLL.deps.json
+D:\Pack Prog Web\Parcial\BLL\bin\Debug\netstandard2.0\BLL.dll
+D:\Pack Prog Web\Parcial\BLL\bin\Debug\netstandard2.0\BLL.pdb
+D:\Pack Prog Web\Parcial\BLL\bin\Debug\netstandard2.0\DAL.dll
+D:\Pack Prog Web\Parcial\BLL\bin\Debug\netstandard2.0\Entity.dll
+D:\Pack Prog Web\Parcial\BLL\bin\Debug\netstandard2.0\DAL.pdb
+D:\Pack Prog Web\Parcial\BLL\bin\Debug\netstandard2.0\Entity.pdb
+D:\Pack Prog Web\Parcial\BLL\obj\Debug\netstandard2.0\BLL.csproj.CopyComplete
+D:\Pack Prog Web\Parcial\BLL\obj\Debug\netstandard2.0\BLL.dll
+D:\Pack Prog Web\Parcial\BLL\obj\Debug\netstandard2.0\BLL.pdb
